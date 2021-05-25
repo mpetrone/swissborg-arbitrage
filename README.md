@@ -3,7 +3,7 @@
 
 ## How to run
 
-amm main.sc PARAM
+`amm main.sc PARAM`
 
 where param can be 
 - b -> runs both versions
